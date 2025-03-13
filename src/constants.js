@@ -97,10 +97,10 @@ export const tables = [
 ]
 
 export const tours = [
-    { img: president, days: 6, name: 'ГОРАНЫЙ ДУХ АЛМАТЫ', tableData: tables[0] },
-    { img: medeu, days: 6, name: 'АЛМТЫ АДРЕНАЛИН', tableData: tables[3] },
-    { img: park, days: 6, name: 'АЛМТЫ СКВОЗЬ ВЕКА', tableData: tables[1] },
-    { img: m, days: 4, name: 'АЛМТЫ - ГОРОД ВДОХНОВЕНИЙ', tableData: tables[2] },
+    { img: president, days: 6, name: 'ГОРНЫЙ ДУХ АЛМАТЫ', tableData: tables[0] },
+    { img: medeu, days: 6, name: 'АЛМАТЫ АДРЕНАЛИН', tableData: tables[3] },
+    { img: park, days: 6, name: 'АЛМАТЫ СКВОЗЬ ВЕКА', tableData: tables[1] },
+    { img: m, days: 4, name: 'АЛМАТЫ - ГОРОД ВДОХНОВЕНИЙ', tableData: tables[2] },
 ]
 
 export const coord = [[
